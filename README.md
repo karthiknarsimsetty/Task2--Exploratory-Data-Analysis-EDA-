@@ -61,7 +61,7 @@ Through this EDA process, I gained a better understanding of the Titanic dataset
 - README.md
 - Visualization screenshots
 
-## Author
+## NOTE 
+  If there is any problem with .ipynb file plz download it and check it out  Bcuz sometimes its show error
+  
 
-Narsimsetty Karthik  
-AI & ML Internship
